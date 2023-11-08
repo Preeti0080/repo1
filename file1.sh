@@ -1,5 +1,5 @@
 #!\bin\bash
-echo "Enter two numbers"
+echo "Enter 2 numbers"
 read a b
 sum=`expr $a + $b`
-echo "Sum of two numbers is $sum"
+echo "Sum of 2 numbers is $sum"
